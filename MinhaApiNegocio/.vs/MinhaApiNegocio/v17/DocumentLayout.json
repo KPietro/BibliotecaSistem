@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\MinhaApiNegocio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7E6B74-0EA1-456E-9256-415687382B07}|MinhaApiNegocio\\MinhaApiNegocio.csproj|c:\\users\\pietro rios\\desktop\\bibliotecasistem\\minhaapinegocio\\minhaapinegocio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7E6B74-0EA1-456E-9256-415687382B07}|MinhaApiNegocio\\MinhaApiNegocio.csproj|solutionrelative:minhaapinegocio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\MinhaApiNegocio\\MinhaApiNegocio\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaApiNegocio\\Program.cs",
+              "ToolTip": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\MinhaApiNegocio\\MinhaApiNegocio\\Program.cs",
+              "RelativeToolTip": "MinhaApiNegocio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:48:07.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

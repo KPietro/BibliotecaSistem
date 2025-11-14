@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|c:\\users\\pietro rios\\desktop\\bibliotecasistem\\bibliotecasistem\\bibliotecasistem\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|solutionrelative:bibliotecasistem\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|c:\\users\\pietro rios\\desktop\\bibliotecasistem\\bibliotecasistem\\bibliotecasistem\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|solutionrelative:bibliotecasistem\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|c:\\users\\pietro rios\\desktop\\bibliotecasistem\\bibliotecasistem\\bibliotecasistem\\data\\generocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|solutionrelative:bibliotecasistem\\data\\generocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|c:\\users\\pietro rios\\desktop\\bibliotecasistem\\bibliotecasistem\\bibliotecasistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F891770F-8DDC-49B1-B7C4-7D24BEBAC67B}|BibliotecaSistem\\BibliotecaSistem.csproj|solutionrelative:bibliotecasistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Services\\BibliotecaService.cs",
+              "RelativeDocumentMoniker": "BibliotecaSistem\\Services\\BibliotecaService.cs",
+              "ToolTip": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Services\\BibliotecaService.cs",
+              "RelativeToolTip": "BibliotecaSistem\\Services\\BibliotecaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:46:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "BibliotecaSistem\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Models\\Livro.cs",
+              "RelativeToolTip": "BibliotecaSistem\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:43:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneroContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Data\\GeneroContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaSistem\\Data\\GeneroContext.cs",
+              "ToolTip": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Data\\GeneroContext.cs",
+              "RelativeToolTip": "BibliotecaSistem\\Data\\GeneroContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:41:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaSistem\\Program.cs",
+              "ToolTip": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaSistem\\BibliotecaSistem\\Program.cs",
+              "RelativeToolTip": "BibliotecaSistem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:41:07.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
