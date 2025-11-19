@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaCLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d966bb009b899133261961e0c8318445252dafd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58a35a562b5365d44b1bff1f1eb307a97f0acb66")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaCLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaCLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

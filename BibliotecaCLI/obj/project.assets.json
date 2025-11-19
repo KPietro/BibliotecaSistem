@@ -2158,11 +2158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pietro Rios\\Downloads\\BibliotecaCLI\\BibliotecaCLI\\BibliotecaCLI\\BibliotecaCLI.csproj",
+      "projectUniqueName": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaCLI\\BibliotecaCLI.csproj",
       "projectName": "BibliotecaCLI",
-      "projectPath": "C:\\Users\\Pietro Rios\\Downloads\\BibliotecaCLI\\BibliotecaCLI\\BibliotecaCLI\\BibliotecaCLI.csproj",
+      "projectPath": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaCLI\\BibliotecaCLI.csproj",
       "packagesPath": "C:\\Users\\Pietro Rios\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pietro Rios\\Downloads\\BibliotecaCLI\\BibliotecaCLI\\BibliotecaCLI\\obj\\",
+      "outputPath": "C:\\Users\\Pietro Rios\\Desktop\\BibliotecaSistem\\BibliotecaCLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
