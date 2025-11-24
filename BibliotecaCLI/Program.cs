@@ -16,13 +16,10 @@ namespace BibliotecaCLI
 
             Console.WriteLine("Bem-vindo ao Sistema de Biblioteca CLI!");
 
-            // Substitua o bloco 'while(true)' existente por este:
-
             while (true)
             {
                 if (usuarioLogado == null)
                 {
-                    // === MENU DESLOGADO (Cor Padrão) ===
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("\n*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*");
                     Console.WriteLine("*-* BEM-VINDO (Deslogado) *-*");
